@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-
-**ChubiMoses/ChubiMoses** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 -  I'm a software developer and a community member.
 - 🌱 Skills: Flutter/ Laravel / Javascript
 - 🔭 I’m currently working on an online community app for Nigerian's National Youth Service Corps members
