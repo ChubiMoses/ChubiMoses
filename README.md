@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 -  I'm a software developer and a community member.
-- 🌱 Skills: Flutter/ Laravel / Javascript
+- 🌱 Skills: Flutter/ Dart/ Firebase/ Laravel / Javascript
 - 🔭 I’m currently working on an online community app for Nigerian's National Youth Service Corps members
 - 🌱 I’m currently learning blockchain development
 - 👯 I’m looking to collaborate on Flutter Open-Source project
